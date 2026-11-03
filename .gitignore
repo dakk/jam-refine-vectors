@@ -1,0 +1,3 @@
+service/target/
+tools/build_blob/target/
+__pycache__/

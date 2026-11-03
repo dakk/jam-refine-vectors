@@ -9,6 +9,7 @@ from jamtestvectors:
 ```json
 {
   "name": "refine-echo",
+  "core_idx": 0,
   "services": { "1000": { "...": "service json" } },
   "work_package": { "...": "work package json" },
   "bundle": "0x...", 
